@@ -9,8 +9,6 @@ This project is a demonstration of integrating Auth0 authentication with a Vue.j
    ```
    
     npm install
-    Run the development server:
-    -------
     npm run serve
     Open your browser and navigate to http://localhost:3000/ to view the application.
 
