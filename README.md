@@ -4,20 +4,13 @@ This project is a demonstration of integrating Auth0 authentication with a Vue.j
 
 ## Setup Steps
 
-1. **Clone the repository:**
+1. **Install dependencies:**
 
    ```
-   git clone <repository_url>
    
-    Install dependencies:
-
-    bash
-    Copy code
     npm install
     Run the development server:
-    
-    bash
-    Copy code
+    -------
     npm run serve
     Open your browser and navigate to http://localhost:3000/ to view the application.
 
